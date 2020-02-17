@@ -48,6 +48,12 @@ public class gf {
 			System.out.println("Mi nombre es Gonzalo");
 			System.out.println("Mi nombre es Gonzalo");
 			System.out.println("Mi nombre es Gonzalo");
+			System.out.println("Mi nombre es Gonzalo");
+			System.out.println("Mi nombre es Gonzalo");
+			System.out.println("Mi nombre es Gonzalo");
+			System.out.println("Mi nombre es Gonzalo");
+			System.out.println("Mi nombre es Gonzalo");
+			
 			
 		}
 	}
