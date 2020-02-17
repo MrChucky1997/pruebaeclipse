@@ -40,7 +40,15 @@ public class gf {
 			System.out.println("Not in 1, 2 or 3");
 			
 			
+			
 			System.out.println("Mi nombre es Gonzalo");
+			System.out.println("Mi nombre es Gonzalo");
+			System.out.println("Mi nombre es Gonzalo");
+			System.out.println("Mi nombre es Gonzalo");
+			System.out.println("Mi nombre es Gonzalo");
+			System.out.println("Mi nombre es Gonzalo");
+			System.out.println("Mi nombre es Gonzalo");
+			
 		}
 	}
 }
